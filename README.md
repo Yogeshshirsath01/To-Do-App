@@ -43,7 +43,7 @@ You can now run the development server:
 Runs the app in the development mode.\
 ### `Cd Frontend`
 
-### `npm run dev`
+### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.
